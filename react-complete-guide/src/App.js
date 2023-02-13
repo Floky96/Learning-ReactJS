@@ -1,6 +1,6 @@
-import Items from "./components/Expenses";
+import Items from "./components/Expenses/Expenses";
 
-function App() {
+const App = () => {
 
 
   return (
